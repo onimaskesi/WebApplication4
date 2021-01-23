@@ -1,0 +1,16 @@
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee_MarkupCompile.cache
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.csprojAssemblyReference.cache
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\MainWindow.g.cs
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\App.g.cs
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee_MarkupCompile.lref
+C:\Users\Kral\source\repos\WebApplication4\burcnee\bin\Debug\burcnee.exe.config
+C:\Users\Kral\source\repos\WebApplication4\burcnee\bin\Debug\burcnee.exe
+C:\Users\Kral\source\repos\WebApplication4\burcnee\bin\Debug\burcnee.pdb
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\App.baml
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\MainWindow.baml
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.g.resources
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.Properties.Resources.resources
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.csproj.GenerateResource.cache
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.csproj.CoreCompileInputs.cache
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.exe
+C:\Users\Kral\source\repos\WebApplication4\burcnee\obj\Debug\burcnee.pdb

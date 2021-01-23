@@ -1,0 +1,41 @@
+﻿@model List<string>
+@{
+    Layout = null;
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @using (Html.BeginForm("BurcGezegeniGetir", "Home", FormMethod.Post, null))
+    {
+
+
+        <div>
+            <label>Burcunuzu Seçiniz</label>
+        </div>
+        <div>
+            <select name="burc">
+                @foreach (string brc in Model)
+                {
+
+                    <option>@brc</option>
+                }
+            </select>
+        </div>
+        <div>
+            <input type="submit" value="Bugün Beni Neler Bekliyor?" />
+        </div>
+
+        <div>
+            @Html.Partial("Yorum",(string)ViewBag.Gezegenler)
+        </div>
+    }
+</body>
+</html>

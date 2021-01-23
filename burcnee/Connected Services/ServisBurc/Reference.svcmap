@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b48f7c47-e13e-4acd-9a2a-01296b7b388d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:53462/BurcServis.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BurcServis.disco" MetadataType="Disco" ID="d3e9ecbe-7117-4a9c-bfc4-78760b091318" SourceId="1" SourceUrl="http://localhost:53462/BurcServis.svc?disco" />
+    <MetadataFile FileName="BurcServis.wsdl" MetadataType="Wsdl" ID="f6780f21-6cc8-4ab5-bf7d-11e96f3a2813" SourceId="1" SourceUrl="http://localhost:53462/BurcServis.svc?wsdl" />
+    <MetadataFile FileName="BurcServis.xsd" MetadataType="Schema" ID="25ccfbad-6446-4f40-803d-9c82d04bf1b8" SourceId="1" SourceUrl="http://localhost:53462/BurcServis.svc?xsd=xsd0" />
+    <MetadataFile FileName="BurcServis1.xsd" MetadataType="Schema" ID="00b476d3-1333-41ba-90fc-bbd520d9d86b" SourceId="1" SourceUrl="http://localhost:53462/BurcServis.svc?xsd=xsd1" />
+    <MetadataFile FileName="BurcServis2.xsd" MetadataType="Schema" ID="a7da1cb2-afc1-4fba-811d-dd2fe1c3d61f" SourceId="1" SourceUrl="http://localhost:53462/BurcServis.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
